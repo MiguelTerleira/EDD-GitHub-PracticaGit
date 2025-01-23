@@ -1,0 +1,2 @@
+cat > nuevo2.txt
+cat > nuevo3.txt
